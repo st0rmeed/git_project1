@@ -4,6 +4,8 @@ def main():
     print('And I change it every day')
     print('PRINNNNNNTTTT')
 
+    print('Some changes')
+
 
 if __name__ == '__main__':
     main()
